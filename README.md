@@ -1,0 +1,3 @@
+- CSC221 Fall 2023
+- Alex Strack
+- astrack02@icloud.com
